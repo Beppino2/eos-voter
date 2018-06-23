@@ -1,3 +1,0 @@
-files:
-  - source: /app/renderer/assets/locales/en-US/*.json
-    translation: /app/renderer/assets/locales/%locale%/%original_file_name%
